@@ -1,5 +1,6 @@
 <template>
   <h1>Hello <span class="span">world</span>!</h1>
+  <h1>Hello <span class="span">world</span>!</h1>
 </template>
 
 <script>
