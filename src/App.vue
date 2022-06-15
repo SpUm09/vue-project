@@ -1,5 +1,4 @@
 <template>
-  <h1>Hello <span class="span">world</span>!</h1>
   <h2><span class="span">RussiaZZZ</span>!</h2>
   <h2><span class="span">RussiaZZZ</span>!</h2>
 </template>
